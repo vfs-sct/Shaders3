@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: MAT_Homework3
+  m_Shader: {fileID: 4800000, guid: 2660f317122f33146a1536f145e4b65b, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BumpMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 7.78, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: ff0a59e25dae267469ca7eaae3b16dfd, type: 3}
+        m_Scale: {x: 7.88, y: 7.85}
+        m_Offset: {x: 7.66, y: 7.01}
+    - _OcclusionMap:
+        m_Texture: {fileID: 2800000, guid: ff0a59e25dae267469ca7eaae3b16dfd, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _PlanetTexture:
+        m_Texture: {fileID: 2800000, guid: e981489915647314d827d9212c780de9, type: 3}
+        m_Scale: {x: 0, y: 0}
+        m_Offset: {x: 0, y: 0}
+    - _RingTexture:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 0.49, y: 0.79}
+        m_Offset: {x: 0.58, y: 0.56}
+    m_Ints: []
+    m_Floats:
+    - _Distance: 1
+    - _DistortionStrength: 0.1
+    - _Frequency: 5
+    - _Glossiness: 32
+    - _GridSize: 1
+    - _InnerRadius: 0.3
+    - _OuterRadius: 0.5
+    - _RimThreshold: 0.1
+    - _Ring: 0.231
+    - _RingRadius: 0.3
+    - _RingWidth: 0.01
+    - _SpinSpeed: 20
+    - _SpinSpeedX: 2.22
+    - _SpinSpeedY: 14.96
+    - _Tiling: 1
+    - _Time: 2
+    - _TimeSpeed: 0.88
+    m_Colors:
+    - _AmbientColor: {r: 0.39999998, g: 0.39999998, b: 0.39999998, a: 1}
+    - _Color: {r: 0.099012084, g: 0.27289462, b: 0.8396226, a: 1}
+    - _ColorBottom: {r: 0, g: 0, b: 1, a: 1}
+    - _ColorTop: {r: 1, g: 0, b: 0, a: 1}
+    - _RimColor: {r: 0.9, g: 0.9, b: 0.9, a: 1}
+    - _RingColor: {r: 0.07035923, g: 0, b: 1, a: 1}
+    - _ScrollSpeed: {r: 0, g: 0, b: 0, a: 0}
+    - _SpecularColor: {r: 0.9, g: 0.9, b: 0.9, a: 1}
+  m_BuildTextureStacks: []
+  m_AllowLocking: 1
